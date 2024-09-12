@@ -1,9 +1,9 @@
-import LoginForm from "./loginform";
+import LoginForm from "./components/LoginForm.jsx";
 
 function App() {
   return(
     <div className="App">
-      <LoginForm />
+      <LoginForm></LoginForm>
     </div>
   );
 }
